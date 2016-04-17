@@ -4,8 +4,8 @@ It has following variables,
 
 	1. Activity_Description   -  Provides the descriptive values such as 
 								"WALKING",
-								"WALKING\_UPSTAIRS",
-								"WALKING\_DOWNSTAIRS",
+								"WALKING_UPSTAIRS",
+								"WALKING_DOWNSTAIRS",
 								"SITTING",
 								"STANDING",
 								"LAYING"
